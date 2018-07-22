@@ -1,5 +1,7 @@
-## illuminate production
+<h1 align="center">illuminate-nos-production</h1>
 
-Production pages build for illuminate
-
-illuminate is a microlearning dapp built on the nOS platform
+<p align="center">
+  Production build files for illuminate 
+  
+  illuminate is microlearning distributed application built on the the <strong>nOS</strong> platform.
+</p>
